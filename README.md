@@ -1,4 +1,4 @@
-# LIQ PARTY - Lick Instance Quantifier with Poly-Animal RFID Tracking Integration 
+# LIQ PARTI - Lick Instance Quantifier with Poly-Animal RFID Tracking Integration 
 
 ## Included in this repository:
   - Arduino code for LIQ HD running off an Arduino Mega
