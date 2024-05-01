@@ -1,8 +1,7 @@
 # LIQ PARTI - Lick Instance Quantifier with Poly-Animal RFID Tracking Integration 
 
 ## Included in this repository:
-  - Arduino code for LIQ HD running off an Arduino Mega
-  - Arduino code for LIQ HD running off an Adafruit Grand Central (significantly faster processor speed. NOT FULLY TESTED.)
+  - Arduino code for LIQ PARTI running off an Arduino Mega
   - 3D models for all required 3D-printed components in various file formats (STL, STEP, SHAPR)
   - Step-by-step build instructions and video tutorial can be found on the [Wiki page](https://github.com/nickpetersen93/LIQ_HD/wiki/LIQ-HD---Step-by-Step-Tutorial "LIQ HD - Step-by-Step Tutorial")
   
@@ -11,10 +10,10 @@
 ### Required Arduino Libraries:
   - Adafruit_GFX.h
   - RTClib.h
-  - SdFat.h
   - Adafruit_MPR121.h
   - Adafruit_ILI9341.h
   - Adafruit_FT6206.h
+  - SparkFun_Qwiic_Rfid.h
   
 ------------------------------------------------------------------
 
@@ -27,5 +26,5 @@ Investigation of rodent drinking behavior has provided insight into drivers of t
 
 
 <p align="center">
-<img width="560" alt="Screen Shot 2022-12-15 at 4 54 24 PM" src="https://user-images.githubusercontent.com/86747820/207975271-d024acc4-405c-4381-a1c6-2fc56d0128fb.png">
+<img width="800" alt="Screen Shot 2022-12-15 at 4 54 24 PM" src="https://github.com/nickpetersen93/LIQ_PARTI/assets/86747820/ac5190c5-3204-40c8-a3d3-297990e5020e">
 </p>
