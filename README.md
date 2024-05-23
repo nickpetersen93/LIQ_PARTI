@@ -3,8 +3,8 @@
 ## Included in this repository:
   - Arduino code for LIQ PARTI running off an Arduino Mega
   - 3D models for all required 3D-printed components in various file formats (STL, STEP, SHAPR)
-  - Step-by-step build instructions and video tutorial can be found on the [Wiki page](https://github.com/nickpetersen93/LIQ_HD/wiki/LIQ-HD---Step-by-Step-Tutorial "LIQ HD - Step-by-Step Tutorial")
-  
+  - Step-by-step build instructions and video tutorial can be found on the [Wiki page](https://github.com/nickpetersen93/LIQ_PARTI/wiki/LIQ-PARTI-%E2%80%90-Step-by-Step-Tutorial "LIQ PARTI - Step-by-Step Tutorial")
+
 ------------------------------------------------------------------
 
 ### Required Arduino Libraries:
